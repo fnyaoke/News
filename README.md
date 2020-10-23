@@ -16,7 +16,6 @@ git clone 'https://github.com/fnyaoke/News.git'
 
 Use command  $ cd Highlights
 
-
 ### 3.Install all required prerequisites
 
 On your terminal use the command $ pip install flask
@@ -28,3 +27,10 @@ Also install $ pip install flask-bootstrap
 NOTE: For python 3.6 use pip3 instead of pip for installations
 
 4.Use ./start.sh to run the project on your browser
+
+## BEHAVIOR DRIVEN DEVELOPMENT
+
+| GENERAL BEHAVIOR | INPUT | OUTPUT|
+|:------------------|:--------|:-----------|
+|User wants to view current news| They select the news source they want |---|
+|User wants to read a particular story| They select the story from the source page|They are redirected to the website|
