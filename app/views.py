@@ -1,5 +1,5 @@
 from flask import render_template
-from . import app
+from app import app # pylint: disable-msg=E0611
 
 # Views
 @app.route('/')
