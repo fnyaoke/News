@@ -28,6 +28,10 @@ NOTE: For python 3.6 use pip3 instead of pip for installations
 
 4.Use ./start.sh to run the project on your browser
 
+## LIVE LINK
+
+ To access app use the link 'https://newsupdat.herokuapp.com'
+
 ## BEHAVIOR DRIVEN DEVELOPMENT
 
 | GENERAL BEHAVIOR | INPUT | OUTPUT|
