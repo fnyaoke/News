@@ -17,6 +17,7 @@ def index():
 
     title = 'welcome to news updates'
     return render_template('index.html', title=title, general=news_sources, sports=sports_sources, health=health_sources, technology = technology_sources)
+
 @main.route('/articles/<id>')
 def articles(id):
 
