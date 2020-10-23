@@ -8,6 +8,7 @@
         "endmacro",
         "geteuid",
         "mkdtemp",
+        "nyaoke",
         "ooops",
         "pycompile",
         "reqs"
