@@ -48,3 +48,6 @@ Add a search function
 
 Reach the author on fnyaoke@gmail.com
 
+## LICENSE
+
+MIT License Copyright (c) 2020 Florence Nyaoke
