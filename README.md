@@ -34,3 +34,9 @@ NOTE: For python 3.6 use pip3 instead of pip for installations
 |:------------------|:--------|:-----------|
 |User wants to view current news| They select the news source they want |---|
 |User wants to read a particular story| They select the story from the source page|They are redirected to the website|
+
+## TECHNOLOGIES USED
+
+1.Python3.6.9
+.Flask 2.0.6
+
