@@ -43,3 +43,8 @@ NOTE: For python 3.6 use pip3 instead of pip for installations
 ## FUTURE IMPROVEMENTS
 
 Add a search function
+
+## CONTACT INFORMATION
+
+Reach the author on fnyaoke@gmail.com
+
