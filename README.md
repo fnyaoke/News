@@ -40,3 +40,6 @@ NOTE: For python 3.6 use pip3 instead of pip for installations
 1.Python3.6.9
 .Flask 2.0.6
 
+## FUTURE IMPROVEMENTS
+
+Add a search function
